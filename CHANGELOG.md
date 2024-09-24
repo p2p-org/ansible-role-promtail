@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.24.0](https://github.com/p2p-org/ansible-role-promtail/tree/1.24.0) (2023-05-12)
+
+[Full Changelog](https://github.com/p2p-org/ansible-role-promtail/compare/1.23.1...1.24.0)
+
 ## [1.24.0](https://github.com/patrickjahns/ansible-role-promtail/tree/1.24.0) (2023-05-12)
 
 [Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.23.1...1.24.0)
