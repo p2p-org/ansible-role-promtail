@@ -11,5 +11,12 @@
         "\\|\\s+`promtail_version`\\s+\\|\\s+\"(?<currentValue>.*)\"\\s+\\|\\s+.*\\s+\\|\\s+"
       ]
     }
+  ],
+  "packageRules": [
+    {
+      "description": "Pin GitHub Actions to full commit SHA",
+      "matchDepTypes": ["action"],
+      "pinDigests": true
+    }
   ]
 }
