@@ -4,6 +4,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write # gh release
+
 jobs:
   changelog:
     runs-on: ubuntu-latest
